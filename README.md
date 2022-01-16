@@ -1,2 +1,2 @@
 # Paint-using-WebCamera-Python-
-The main aim is to provide data analysing level of COVID-19 using Machine Level concepts and the prediction on various cases has been done and also the accuracy of the algorithm has been determined.
+It can capture video and by using hand movements helps to draw by choosing from the colors given.It is developed using python language. 
