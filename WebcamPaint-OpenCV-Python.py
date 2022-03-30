@@ -100,13 +100,13 @@ while True:
 
                 paintWindow[67:,:,:] = 255
             elif 160 <= center[0] <= 255:
-                    colorIndex = 0 # Blue
+                    colorIndex = 0 
             elif 275 <= center[0] <= 370:
-                    colorIndex = 1 # Green
+                    colorIndex = 1 
             elif 390 <= center[0] <= 485:
-                    colorIndex = 2 # Red
+                    colorIndex = 2 
             elif 505 <= center[0] <= 600:
-                    colorIndex = 3 # Yellow
+                    colorIndex = 3 
         else :
             if colorIndex == 0:
                 bpoints[bindex].appendleft(center)
